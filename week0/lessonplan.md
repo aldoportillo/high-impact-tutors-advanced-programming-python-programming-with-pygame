@@ -24,6 +24,8 @@
 - Introduce basic data types: strings, integers, and floats.
 - Demonstrate how to use the `print()` function.
 - Create a simple "Hello, world!" program in the online editor.
+- Logical Operator Chart
+![logical operator chart](https://s3.amazonaws.com/comp110/content/Screen-Shot-2019-02-05-at-10.06.05-AM.png)
 
 ### 4. Cool Project (15 minutes)
 
