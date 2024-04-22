@@ -28,7 +28,7 @@
 ![logical operator chart](https://s3.amazonaws.com/comp110/content/Screen-Shot-2019-02-05-at-10.06.05-AM.png)
 
 ### 4. Example Problems
-![circle shaded area] (https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/7706/content_create21.png)
+![circle shaded area](https://search-static.byjusweb.com/question-images/byjus/infinitestudent-images/ckeditor_assets/pictures/7706/content_create21.png)
 
 ### 5. Cool Project (15 minutes)
 
