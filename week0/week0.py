@@ -57,9 +57,9 @@ print(type(is_student))  # <class 'bool'>
 ## Addition: +
 ## Subtraction: -
 ## Multiplication: *
-## Division: /
+## Division: / # gives the quotient
 ## Exponentiation: **
-## Modulus: %
+## Modulus: % # gives the remainder
 
 ## Comparison Operators:
 
