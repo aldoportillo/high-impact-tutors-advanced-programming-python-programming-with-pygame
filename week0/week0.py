@@ -124,7 +124,7 @@ area_shaded = area_outside - area_inside
 print( "The area of the shaded region is ", area_shaded)
 
 ## If they seem to understand use the opportunity to introduce functions
-def shaded_area(radius_outside, radius_inside):
+def circle_shaded_area(radius_outside, radius_inside):
     area_outside = 3.14 * radius_outside ** 2
     area_inside = 3.14 * radius_inside ** 2
     area_shaded = area_outside - area_inside
