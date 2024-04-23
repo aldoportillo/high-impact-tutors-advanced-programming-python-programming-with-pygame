@@ -1,15 +1,15 @@
-# Python Introduction 
+# Python Introduction - AP
 ## Python is a popular programming language used for web development, data analysis, artificial intelligence, and more.
 ## It's known for its simplicity and readability, making it a great choice for beginners and professionals alike.
 ## Understanding how to code can open up many opportunities in technology and beyond.
 
-# Setting Up Environment
+# Setting Up Environment - AP
 ## Today, we'll be using Replit, an online platform that allows us to write and run Python code directly in our web browsers.
 ## Show how to navigate to the Replit website and create a new account.
 ## Demonstrate how to start a new Python project: "Once you're logged in, click on the '+ New Repl' button, choose Python as the language, and give your project a name.
 ## Explain the basic features of the Replit interface, including the code editor, console, and run button.
 
-# Basic Python Syntax
+# Basic Python Syntax - CC
 
 ## Python is an interpreted language, which means that code is executed line by line.
 ## The syntax of Python is relatively simple and easy to learn.
@@ -20,7 +20,7 @@ print("Hello, World!")
 ## In this example, we're using the `print` function to display the text "Hello, World!" on the console.
 ## The `print` function is a built-in function that takes a string as an argument and displays it on the screen.
 
-# Variables and Data Types
+# Variables and Data Types - AP
 
 ## Variables are used to store data in a program. They can hold different types of data, such as numbers, strings, and booleans.
 ## Here's an example of how to declare a variable and assign it a value:
@@ -32,7 +32,7 @@ is_student = False
 ## In this example, we're creating three variables: `name`, `age`, and `is_student`.
 ## The variable `name` is assigned the string "Alice", `age` is assigned the number 30, and `is_student` is assigned the boolean value False.
 
-# Data Types
+# Data Types - CC
 
 ## Python has several built-in data types, including:
 
@@ -49,7 +49,7 @@ print(type(is_student))  # <class 'bool'>
 
 ## In this example, we're using the `type` function to print the data type of the variables `name`, `age`, and `is_student`.
 
-# Basic Operators
+# Basic Operators - AP
 
 ## Python supports various operators for performing arithmetic, comparison, and logical operations.
 
@@ -96,29 +96,36 @@ print(x == y)  # False
 ## The problem we were solving in the homework was to find the area of a shaded region. 
 ## To solve this problem, we found the area of the outside shape, the area of the inside shape and then subtracted the two areas.
 
-## Let's write a Python program that calculates the area of a shaded region given the radius of the outside circle and the inside circle.
+
+## Let's write a Python program that calculates the area of a shaded region given the radius of the outside circle and the inside circle. - CC
 
 ## Here's the code:
 
+### What variables do we need?
 radius_outside = 10
 radius_inside = 5
 
+### What formula do we need?
 area_outside = 3.14 * radius_outside ** 2
 area_inside = 3.14 * radius_inside ** 2
+
 area_shaded = area_outside - area_inside
 
 print( "The area of the shaded region is ", area_shaded)
 
 
-## If time allows, ask for help to do the same with triangles.
+## If time allows, ask for help to do the same with triangles. - AP
 
+### What variables do we need?
 outside_base = 10
 outside_height = 5
 inside_base = 4
 inside_height = 3
 
+### What formula fo we need?
 area_outside = 0.5 * outside_base * outside_height
 area_inside = 0.5 * inside_base * inside_height
+
 area_shaded = area_outside - area_inside
 
 print( "The area of the shaded region is ", area_shaded)
