@@ -1,5 +1,3 @@
-# Program for student's fundraising event?
-
 # Python Functions - AP
 ## Functions are a way to organize your code into blocks that can be reused multiple times.
 ## They can take parameters, perform operations, and return results.
