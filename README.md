@@ -1,39 +1,38 @@
 # Syllabus for Python Programming with Pygame for High Impact Tutors
 
-## Week 0: [Introduction to Python](../python-programming-with-pygame/week1/lessonplan.md)
+## Week 0: [Introduction to Python](../python-programming-with-pygame/week0/lessonplan.md)
 
 - Overview of Python
-- Setting up an online Python environment (e.g., [Replit](https://replit.com/))
+- Setting up an online Python environment, initially planned with [Replit](https://replit.com/) but due to access issues, using [Online Python](https://www.online-python.com/) instead
 - Introduction to Python syntax and basic data types
 - Writing simple print statements and comments
-- Challenge: Create a homework machine (utilize this to introduce conditionals and functions)
 
-## Week 1: Functions and Conditionals
+## Week 1: [Functions](../python-programming-with-pygame/week1/week1.py)
 
-- Introduction to functions and their importance
-- Defining and calling functions with parameters
-- Understanding conditional statements (if, elif, else)
-- Combining functions and conditionals to solve problems
-- Challenge: Create a program that uses functions and conditionals to perform tasks
+- Introduction to the concept of functions and their significance in programming
+- Learning to define and invoke functions, including how to pass parameters
 
-## Week 2: Getting Started with Pygame
+## Week 2: [Interactive Console](../python-programming-with-pygame/week2/week2.py)
 
-- Introduction to Pygame
-- Setting up a Pygame window and understanding the game loop
-- Drawing shapes and colors using Pygame
-- Handling basic events (e.g., quitting the game)
-- Challenge: Create a simple Pygame window with a moving shape
+- Incorporating user input into Python scripts
+- Enhancing interactivity through console prompts
 
-## Week 3: Graphics and Animation
+## Week 3: [Conditionals]
 
-- Loading and displaying images with Pygame
-- Animating objects on the screen
-- Using time and frame rates to control animations
-- Challenge: Develop a simple animation with user-controlled movement
+- Understanding and applying conditional statements
+- Learning to make decisions within programs using `if`, `else`, and `elif` clauses
 
-## Week 4: Game Mechanics and Control
+## Week ?: [Introduction to Pygame]
 
-- Implementing keyboard and mouse controls
-- Understanding collision detection and response
-- Creating a basic game structure (start screen, game over, etc.)
-- Challenge: Create a game with player-controlled movement and collision detection
+- Basics of Pygame library
+- Setting up a Pygame window and mastering the main game loop
+- Drawing shapes and colors
+- Handling basic user interactions like quitting the game
+- Challenge: Build a basic Pygame window that displays a moving shape
+
+## Week ?: [Graphics and Animation]
+
+- Techniques for loading and displaying images in Pygame
+- Principles of animating objects on the screen
+- Managing time and frame rates for smooth animations
+- Challenge: Create a simple animation that allows user-controlled movement
