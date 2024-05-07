@@ -29,7 +29,12 @@ def add_numbers(a, b):
 
 first_number = float(input("Enter the first number: "))
 second_number = float(input("Enter the second number: "))
-print("The sum is:", add_numbers(first_number, second_number))
+print("The sum is: ", add_numbers(first_number, second_number))
+
+### The first_number line prompts the user to enter the first number.
+### The input() function reads the input from the user as a string.
+### The float() function then converts the input string to a floating-point number.
+### The result is assigned to the variable first_number.
 
 # Using Functions to Calculate Areas - AP
 ## We'll define functions to calculate areas and let users input the dimensions.
@@ -55,6 +60,7 @@ print("The area of the shaded region is:", shaded_area(radius_outside, radius_in
 
 ## If time allows: Logic and Testing Functions with User Input - CC
 ## We'll now use logical operators to check conditions and print results based on user inputs.
+### As a refresher: logical operators are "and", "or", and "not"
 
 def check_area_validity(area_shaded, area_outside, area_inside):
     return area_shaded <= area_outside and area_shaded >= area_inside
