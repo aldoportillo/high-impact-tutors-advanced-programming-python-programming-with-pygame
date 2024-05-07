@@ -61,6 +61,7 @@ print("The area of the shaded region is:", shaded_area(radius_outside, radius_in
 ## If time allows: Logic and Testing Functions with User Input - CC
 ## We'll now use logical operators to check conditions and print results based on user inputs.
 ### As a refresher: logical operators are "and", "or", and "not"
+### Comparison operators are <, >, <=, >=, ==, !=
 
 def check_area_validity(area_shaded, area_outside, area_inside):
     return area_shaded <= area_outside and area_shaded >= area_inside
