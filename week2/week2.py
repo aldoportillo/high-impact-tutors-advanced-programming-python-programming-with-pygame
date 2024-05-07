@@ -63,6 +63,7 @@ print("The area of the shaded region is:", shaded_area(radius_outside, radius_in
 ### As a refresher: logical operators are "and", "or", and "not"
 ### Comparison operators are <, >, <=, >=, ==, !=
 
+# If area is not smaller than inside circle and bigger than inside circle (if one of these is true, it would return false -- that it is not valid)
 def check_area_validity(area_shaded, area_outside, area_inside):
     return area_shaded <= area_outside and area_shaded >= area_inside
 
